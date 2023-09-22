@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Playfair+Display:wght@700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  img {
+    @apply w-full
+  }
+
+  .section {
+    @apply container mx-auto py-24 px-6 
+  }
+  .animate-slide:hover {
+    animation-play-state: paused;
+  }
+}
+.asmr{
+  color: black;
+  background-color: black;
+}
+.joga{
+  color: green;
+  font-weight:900;
+  font-size:x-large;
+  font-family: 'Gamja Flower', cursive;
+}
+.mylife{
+  color: green;
+  font-size:larger;
+  font-family: 'Gamja Flower', cursive;
+}
+/* ========================================= */
+/* =========contact us ========= */
+.contactus {
+  margin: 0;
+  padding: 0;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.baba{
+  margin-bottom: 22px;
+  color: green;
+  font-size:larger;
+  font-family: 'Gamja Flower', cursive;
+}
+.register{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  flex-direction: column;
+}
