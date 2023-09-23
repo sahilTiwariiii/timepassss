@@ -73,17 +73,17 @@ export const categories = [
 export const courses = [
   {
     id: 1,
-    image: courses1,
-    category: "Web Design",
-    title: "The Complete Web Design Course",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIM3_bxE2qGMg6SEj8hWgjnaobWvCT-8OhNA&usqp=CAU",
+    category: "Ewaste",
+    title: "The Complete Ewaste",
     rating: 4.9,
     participants: 500,
     price: 105,
   },
   {
     id: 2,
-    image: courses2,
-    category: "Web Development",
+    image: 'https://media.istockphoto.com/id/1352364054/photo/african-american-female-worker-sorting-obsolete-computers-components-in-recycling-plant.jpg?s=612x612&w=0&k=20&c=sFtf1F4AL6UaZI5xo0BM8A_gijDNqCbRtZ5PH0iIr5A=',
+    category: "Ewaste",
     title: "FullStack Web Development Course",
     rating: 4.8,
     participants: 700,
@@ -91,8 +91,8 @@ export const courses = [
   },
   {
     id: 3,
-    image: courses3,
-    category: "Web Development",
+    image: 'https://media.istockphoto.com/id/1352364054/photo/african-american-female-worker-sorting-obsolete-computers-components-in-recycling-plant.jpg?s=612x612&w=0&k=20&c=sFtf1F4AL6UaZI5xo0BM8A_gijDNqCbRtZ5PH0iIr5A=',
+    category: "Ewaste",
     title: "Python Beginner to Advanced Course",
     rating: 4.9,
     participants: 300,
@@ -100,8 +100,8 @@ export const courses = [
   },
   {
     id: 4,
-    image: courses4,
-    category: "Web Design",
+    image: 'https://media.istockphoto.com/id/1352364054/photo/african-american-female-worker-sorting-obsolete-computers-components-in-recycling-plant.jpg?s=612x612&w=0&k=20&c=sFtf1F4AL6UaZI5xo0BM8A_gijDNqCbRtZ5PH0iIr5A=',
+    category: "Ewaste",
     title: "UI/UX Design Crazy Course With Harrys",
     rating: 4.7,
     participants: 600,
@@ -109,8 +109,8 @@ export const courses = [
   },
   {
     id: 5,
-    image: courses5,
-    category: "AI Development",
+    image: 'https://media.istockphoto.com/id/1352364054/photo/african-american-female-worker-sorting-obsolete-computers-components-in-recycling-plant.jpg?s=612x612&w=0&k=20&c=sFtf1F4AL6UaZI5xo0BM8A_gijDNqCbRtZ5PH0iIr5A=',
+    category: "Ewaste",
     title: "AI Development With Python (complete beginner course)",
     rating: 4.9,
     participants: 500,
@@ -119,7 +119,7 @@ export const courses = [
   {
     id: 6,
     image: courses6,
-    category: "Web Design",
+    category: "Ewaste",
     title: "The Complete Web Design Course",
     rating: 4.9,
     participants: 500,
@@ -127,7 +127,7 @@ export const courses = [
   },
   {
     id: 7,
-    image: courses7,
+    image: 'https://media.istockphoto.com/id/1352364054/photo/african-american-female-worker-sorting-obsolete-computers-components-in-recycling-plant.jpg?s=612x612&w=0&k=20&c=sFtf1F4AL6UaZI5xo0BM8A_gijDNqCbRtZ5PH0iIr5A=',
     category: "Web Design",
     title: "The Complete Web Design Course",
     rating: 4.9,
@@ -137,7 +137,7 @@ export const courses = [
   {
     id: 8,
     image: courses8,
-    category: "Web Design",
+    category: "Ewaste",
     title: "The Complete Web Design Course",
     rating: 4.9,
     participants: 500,
@@ -150,18 +150,18 @@ export const logos = [logo1, logo2, logo3, logo4, logo5, logo6];
 export const accordions = [
   {
     id: 1,
-    title: "What is Skillex?",
+    title: "What is Cyber Scraper?",
   },
   {
     id: 2,
-    title: "What can I learn from Skillex?",
+    title: "What can I learn from Cyber Scraper?",
   },
   {
     id: 3,
-    title: "Can I teach on Skillex?",
+    title: "Can I teach on Cyber Scraper?",
   },
   {
     id: 4,
-    title: "What is included in my Skillex membership?",
+    title: "What is included in my Cyber Scraper membership?",
   },
 ];

@@ -24,12 +24,13 @@
   color: green;
   font-weight:900;
   font-size:x-large;
-  font-family: 'Gamja Flower', cursive;
+  /* font-family: 'Gamja Flower', cursive; */
 }
 .mylife{
   color: green;
-  font-size:larger;
-  font-family: 'Gamja Flower', cursive;
+  /* font-size:larger; */
+  font-weight:900 ;
+  /* font-family: 'Gamja Flower', cursive; */
 }
 /* ========================================= */
 /* =========contact us ========= */
@@ -44,8 +45,9 @@
 .baba{
   margin-bottom: 22px;
   color: green;
-  font-size:larger;
-  font-family: 'Gamja Flower', cursive;
+  font-weight:900 ;
+  /* font-size:larger; */
+  /* font-family: 'Gamja Flower', cursive; */
 }
 .register{
   display: flex;
